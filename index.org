@@ -6,7 +6,14 @@
 
 Hello, my name is Kyle Andrews. I have a degree in Chemical Engineering from [[http://www.mtu.edu/][Michigan Tech]]. I'm currently working as an engineer at The Dow Chemical Company and pursuing a graduate degree in Statistics at [[www.tamu.edu][Texas A&M]].
 
-* Essays
+* essays
 
 In Progress...
+
+* interesting links
+** R programming resources
+
+- [[http://adv-r.had.co.nz/][Advanced R]]
+- [[http://www.burns-stat.com/documents/books/the-r-inferno/][The R Inferno]]
+
 
