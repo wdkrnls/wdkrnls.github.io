@@ -4,9 +4,9 @@
 
 * who am I?
 
-See my [[./about.html][about]] page.
+Hello, my name is Kyle Andrews. I have a degree in Chemical Engineering from [[http://www.mtu.edu/][Michigan Tech]]. I'm currently working as an engineer at The Dow Chemical Company and pursuing a graduate degree in Statistics at [[www.tamu.edu][Texas A&M]].
 
-* why am I here?
+* Essays
 
-Because I want to be. More to come... 
+In Progress...
 
