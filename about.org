@@ -1,0 +1,3 @@
+#+TITLE: About
+
+Hello, my name is Kyle Andrews. I received my degree in Chemical Engineering from [[http://www.mtu.edu/][Michigan Technological University]] in 2011. I'm interested in statistics and programming as a means of rapidly understanding complicated processes.
