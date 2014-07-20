@@ -1,3 +1,7 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
+#+OPTIONS: toc:nil num:nil
 #+TITLE: About
 
-Hello, my name is Kyle Andrews. I received my degree in Chemical Engineering from [[http://www.mtu.edu/][Michigan Technological University]] in 2011. I'm interested in statistics and programming as a means of rapidly understanding complicated processes.
+* About Me
+
+Hello, my name is Kyle Andrews. I have a degree in Chemical Engineering from [[http://www.mtu.edu/][Michigan Technological University]].

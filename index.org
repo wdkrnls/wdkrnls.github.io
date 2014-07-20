@@ -1,0 +1,12 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
+#+OPTIONS: toc:nil num:nil
+#+TITLE: Hello World
+
+* who am I?
+
+See my [[./about.html][about]] page.
+
+* why am I here?
+
+Because I want to be. More to come... 
+
